@@ -1,0 +1,26 @@
+html{
+    background-color:black;
+    color: beige;
+}
+
+h1{
+    padding: 20px;
+    margin: 12px;
+}
+
+.tabela{
+    border: solid;
+    border-width: 2px;
+    border-color:#ff0095;
+}
+
+.infespecifica{
+    color: yellow;
+}
+
+.infespecificas{
+    color: cyan;
+}
+.infpadrao{
+    color: yellowgreen;
+}
