@@ -8,19 +8,19 @@ h1{
     margin: 12px;
 }
 
-.tabela{
+.Tabela{
     border: solid;
     border-width: 2px;
     border-color:#ff0095;
 }
 
-.infespecifica{
+.Infespecifica{
     color: yellow;
 }
 
-.infespecificas{
+.Infespecificas{
     color: cyan;
 }
-.infpadrao{
+.Infpadrao{
     color: yellowgreen;
 }
